@@ -177,3 +177,5 @@ npx create-react-app .
 ### source:
 1. fetch - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 2. create-react-app - https://create-react-app.dev/
+3. require json - https://blog.codingblocks.com/2018/reading-json-files-in-nodejs-require-vs-fs-readfile/
+4. json sample - https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html
