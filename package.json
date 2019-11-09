@@ -1,0 +1,14 @@
+{
+  "name": "react-ucbsf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "install": "cd client && npm install",
+    "heroku-postbuild": "cd client && npm build",
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
