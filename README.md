@@ -10,6 +10,7 @@
   - [Create dummy data inside the db folder](#create-dummy-data-inside-the-db-folder)
 - [Frontend Setup](#frontend-setup)
 ## General Setup
+#### The usual
 1. Create repo in Github
 2. Clone repo 
 3. CD to repo folder
@@ -38,7 +39,7 @@ npm init -y
   }
 }
 ```
-#### Create .gitignore
+#### Create .gitignore file
 ```
 # dependencies
 node_modules
