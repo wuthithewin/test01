@@ -9,16 +9,12 @@ class App extends React.Component {
     fetch('/api/all', {
       method: 'GET'
     })
-    .then( r => r.json() )
-    .then( r => console.log(r) )
+      .then(r => r.json())
+      .then(r => console.log(r))
   }
-  
+
   render() {
-    return (
-      <div>
-        Hello Mo
-      </div>
-    )
+    return <div>Hello Mo</div>
   }
 }
 
